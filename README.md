@@ -3,6 +3,10 @@
 This project is a basic SpringBoot Application that displays Grade of the student on taking Physics, Chemistry and Maths marks as the input.
 It is coded in **Java** and **HTML** and is build using **Maven**.
 
+
+### Important
+Make sure to save the file **[pom.xml](pom.xml)** in order to download **Maven Dependencies**. You can read more about [Maven](http://maven.apache.org/what-is-maven.html) and [pom](http://maven.apache.org/pom.html).
+
 ### How It Works
 
 1. It takes input of marks of three subjects- Physics, Chemistry and Maths. *(Yes it can accept decimal inputs too in the intervals of 0.25)*
@@ -18,7 +22,7 @@ It is coded in **Java** and **HTML** and is build using **Maven**.
 3. For viewing the JSON,
    1. Make sure you have the **[JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)** extension added to your browser.
    2. After that, type `localhost:80xx/student-marks-card-json` in the address bar.
-   3. You'll be able to see the program in JSON Format.
+   3. You'll be able to see the program in JSON Format. 
 
 ### Credits
 
