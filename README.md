@@ -26,6 +26,6 @@ Make sure to save the file **[pom.xml](pom.xml)** in order to download **Maven D
 
 ### Credits
 
-This project was done by the three of us- Atharva Utekar, [@Anant Shukla](@Anant981) and myself [@Tejas Tawde](@curiousTejas)
+This project was done by the three of us- [@Atharva Utekar](https://github.com/AtharvaUtekar), [@Anant Shukla](https://github.com/Anant981) and myself [@Tejas Tawde](https://github.com/curiousTejas)
 
 **THANKS! HAVE A GREAT TIME!**
